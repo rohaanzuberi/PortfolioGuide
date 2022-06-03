@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[33],{"./src/assets/templates/dataset-r-bike-sharing-demand.svg":function(s,a,e){"use strict";e.r(a),a.default=e.p+"static/media/dataset-r-bike-sharing-demand.857f7a26.svg"}}]);
+//# sourceMappingURL=33.0107368f.chunk.js.map

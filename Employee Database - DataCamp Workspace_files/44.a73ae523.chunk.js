@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[44],{"./src/assets/templates/dataset-r-soccer.svg":function(s,e,a){"use strict";a.r(e),e.default=a.p+"static/media/dataset-r-soccer.1e2ebb22.svg"}}]);
+//# sourceMappingURL=44.a73ae523.chunk.js.map

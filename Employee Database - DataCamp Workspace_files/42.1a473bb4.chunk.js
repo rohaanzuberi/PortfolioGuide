@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[42],{"./src/assets/templates/dataset-r-news-articles.svg":function(s,e,a){"use strict";a.r(e),e.default=a.p+"static/media/dataset-r-news-articles.2fdaf331.svg"}}]);
+//# sourceMappingURL=42.1a473bb4.chunk.js.map

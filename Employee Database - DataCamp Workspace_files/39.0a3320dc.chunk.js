@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[39],{"./src/assets/templates/dataset-r-loans.svg":function(s,a,e){"use strict";e.r(a),a.default=e.p+"static/media/dataset-r-loans.b0cfa76d.svg"}}]);
+//# sourceMappingURL=39.0a3320dc.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[59],{"./src/assets/templates/python-machine-learning.svg":function(e,a,s){"use strict";s.r(a),a.default=s.p+"static/media/python-machine-learning.a1a3a46e.svg"}}]);
+//# sourceMappingURL=59.371ce763.chunk.js.map

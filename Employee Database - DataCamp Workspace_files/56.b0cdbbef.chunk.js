@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[56],{"./src/assets/templates/playbook-python-user-retention.svg":function(e,s,p){"use strict";p.r(s),s.default=p.p+"static/media/playbook-python-user-retention.bfe96891.svg"}}]);
+//# sourceMappingURL=56.b0cdbbef.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[62],{"./src/assets/templates/r-data-exploration.svg":function(a,s,e){"use strict";e.r(s),s.default=e.p+"static/media/r-data-exploration.fd86fb48.svg"}}]);
+//# sourceMappingURL=62.d9ef8846.chunk.js.map

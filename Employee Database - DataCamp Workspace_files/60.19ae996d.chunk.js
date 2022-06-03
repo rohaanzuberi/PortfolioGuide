@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[60],{"./src/assets/templates/python-measles.svg":function(e,s,p){"use strict";p.r(s),s.default=p.p+"static/media/python-measles.ce426aee.svg"}}]);
+//# sourceMappingURL=60.19ae996d.chunk.js.map

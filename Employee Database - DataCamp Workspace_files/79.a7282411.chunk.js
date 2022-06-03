@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[79],{"./src/assets/templates/recipe-python-k-means.svg":function(e,s,p){"use strict";p.r(s),s.default=p.p+"static/media/recipe-python-k-means.c51691ea.svg"}}]);
+//# sourceMappingURL=79.a7282411.chunk.js.map

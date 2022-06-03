@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[17],{"./src/assets/templates/dataset-python-google-play-store-apps.svg":function(s,e,p){"use strict";p.r(e),e.default=p.p+"static/media/dataset-python-google-play-store-apps.94ae61b3.svg"}}]);
+//# sourceMappingURL=17.534ddd16.chunk.js.map

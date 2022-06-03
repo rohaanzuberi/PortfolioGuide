@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[71],{"./src/assets/templates/recipe-python-dropbox-connection.svg":function(e,p,c){"use strict";c.r(p),p.default=c.p+"static/media/recipe-python-dropbox-connection.6255ac07.svg"}}]);
+//# sourceMappingURL=71.4f18b113.chunk.js.map

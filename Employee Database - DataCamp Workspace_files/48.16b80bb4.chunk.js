@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[48],{"./src/assets/templates/dataset-r-tech-stock-prices.svg":function(s,e,t){"use strict";t.r(e),e.default=t.p+"static/media/dataset-r-tech-stock-prices.17d29878.svg"}}]);
+//# sourceMappingURL=48.16b80bb4.chunk.js.map

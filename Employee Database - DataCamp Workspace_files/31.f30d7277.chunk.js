@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[31],{"./src/assets/templates/dataset-r-airbnb-listings.svg":function(s,a,t){"use strict";t.r(a),a.default=t.p+"static/media/dataset-r-airbnb-listings.5d2754c5.svg"}}]);
+//# sourceMappingURL=31.f30d7277.chunk.js.map

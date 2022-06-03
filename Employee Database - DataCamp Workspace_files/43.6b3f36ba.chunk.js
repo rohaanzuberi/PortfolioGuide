@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[43],{"./src/assets/templates/dataset-r-sms-spam-collection.svg":function(s,e,a){"use strict";a.r(e),e.default=a.p+"static/media/dataset-r-sms-spam-collection.7b5d9b77.svg"}}]);
+//# sourceMappingURL=43.6b3f36ba.chunk.js.map

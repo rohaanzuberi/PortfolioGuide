@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[55],{"./src/assets/templates/playbook-python-sentiment-analysis.svg":function(s,e,a){"use strict";a.r(e),e.default=a.p+"static/media/playbook-python-sentiment-analysis.2c908b57.svg"}}]);
+//# sourceMappingURL=55.34a680ef.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[40],{"./src/assets/templates/dataset-r-nba-shooting-data.svg":function(a,s,t){"use strict";t.r(s),s.default=t.p+"static/media/dataset-r-nba-shooting-data.e1edd923.svg"}}]);
+//# sourceMappingURL=40.14e3a71b.chunk.js.map

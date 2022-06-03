@@ -1,0 +1,2 @@
+(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[70],{"./src/assets/templates/recipe-python-diagonal-correlation.svg":function(e,a,p){"use strict";p.r(a),a.default=p.p+"static/media/recipe-python-diagonal-correlation.d67aaf98.svg"}}]);
+//# sourceMappingURL=70.14fa4275.chunk.js.map
