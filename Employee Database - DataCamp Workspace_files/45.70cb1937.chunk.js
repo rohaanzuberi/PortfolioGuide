@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[45],{"./src/assets/templates/dataset-r-spotify-music.svg":function(s,e,t){"use strict";t.r(e),e.default=t.p+"static/media/dataset-r-spotify-music.fd4b4ded.svg"}}]);
-//# sourceMappingURL=45.70cb1937.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[82],{"./src/assets/templates/recipe-python-time-series-decomposition.svg":function(e,s,p){"use strict";p.r(s),s.default=p.p+"static/media/recipe-python-time-series-decomposition.d8921ea8.svg"}}]);
-//# sourceMappingURL=82.bbd08c24.chunk.js.map

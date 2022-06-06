@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[35],{"./src/assets/templates/dataset-r-e-commerce.svg":function(e,s,a){"use strict";a.r(s),s.default=a.p+"static/media/dataset-r-e-commerce.f7529de6.svg"}}]);
-//# sourceMappingURL=35.3d915a72.chunk.js.map

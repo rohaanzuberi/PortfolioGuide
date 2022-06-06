@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[25],{"./src/assets/templates/dataset-python-stock-exchange.svg":function(s,e,t){"use strict";t.r(e),e.default=t.p+"static/media/dataset-python-stock-exchange.17d29878.svg"}}]);
-//# sourceMappingURL=25.6e7a655d.chunk.js.map

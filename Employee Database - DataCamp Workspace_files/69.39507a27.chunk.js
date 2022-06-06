@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[69],{"./src/assets/templates/recipe-python-detect-outliers.svg":function(e,s,t){"use strict";t.r(s),s.default=t.p+"static/media/recipe-python-detect-outliers.46141e18.svg"}}]);
-//# sourceMappingURL=69.39507a27.chunk.js.map

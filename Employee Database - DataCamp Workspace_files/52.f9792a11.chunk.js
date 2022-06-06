@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[52],{"./src/assets/templates/playbook-python-customer-segmentation-shopify.svg":function(s,e,p){"use strict";p.r(e),e.default=p.p+"static/media/playbook-python-customer-segmentation-shopify.daa489b7.svg"}}]);
-//# sourceMappingURL=52.f9792a11.chunk.js.map

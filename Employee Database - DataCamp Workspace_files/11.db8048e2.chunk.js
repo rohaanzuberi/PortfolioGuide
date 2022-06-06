@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[11],{"./src/assets/templates/dataset-python-bank-marketing.svg":function(a,s,t){"use strict";t.r(s),s.default=t.p+"static/media/dataset-python-bank-marketing.c8ff22d9.svg"}}]);
-//# sourceMappingURL=11.db8048e2.chunk.js.map

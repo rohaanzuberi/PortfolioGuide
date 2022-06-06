@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[68],{"./src/assets/templates/recipe-python-custom-time-series-plot.svg":function(e,s,p){"use strict";p.r(s),s.default=p.p+"static/media/recipe-python-custom-time-series-plot.311e64e4.svg"}}]);
-//# sourceMappingURL=68.b45b6a94.chunk.js.map

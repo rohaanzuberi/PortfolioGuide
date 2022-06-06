@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[54],{"./src/assets/templates/playbook-python-multiple-time-series.svg":function(e,s,p){"use strict";p.r(s),s.default=p.p+"static/media/playbook-python-multiple-time-series.06ada29c.svg"}}]);
-//# sourceMappingURL=54.f54466ae.chunk.js.map

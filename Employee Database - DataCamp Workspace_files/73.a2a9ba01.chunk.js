@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[73],{"./src/assets/templates/recipe-python-evaluate-model-cv.svg":function(e,p,s){"use strict";s.r(p),p.default=s.p+"static/media/recipe-python-evaluate-model-cv.99d5c2e7.svg"}}]);
-//# sourceMappingURL=73.a2a9ba01.chunk.js.map

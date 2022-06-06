@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[16],{"./src/assets/templates/dataset-python-gdp.svg":function(s,p,t){"use strict";t.r(p),p.default=t.p+"static/media/dataset-python-gdp.314238f3.svg"}}]);
-//# sourceMappingURL=16.4245f7a0.chunk.js.map

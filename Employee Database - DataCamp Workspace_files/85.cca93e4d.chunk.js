@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[85],{"./src/assets/templates/recipe-python-user-journey-sunburst.svg":function(s,e,p){"use strict";p.r(e),e.default=p.p+"static/media/recipe-python-user-journey-sunburst.c4649d34.svg"}}]);
-//# sourceMappingURL=85.cca93e4d.chunk.js.map

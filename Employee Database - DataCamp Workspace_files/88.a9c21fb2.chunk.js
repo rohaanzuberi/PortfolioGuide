@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[88],{"./src/assets/templates/recipe-python-visualize-layer-cake-graph.svg":function(e,a,p){"use strict";p.r(a),a.default=p.p+"static/media/recipe-python-visualize-layer-cake-graph.7d87cd71.svg"}}]);
-//# sourceMappingURL=88.a9c21fb2.chunk.js.map

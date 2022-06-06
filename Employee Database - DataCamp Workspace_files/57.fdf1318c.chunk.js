@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[57],{"./src/assets/templates/python-data-exploration.svg":function(a,p,s){"use strict";s.r(p),p.default=s.p+"static/media/python-data-exploration.bfad0cc9.svg"}}]);
-//# sourceMappingURL=57.fdf1318c.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[28],{"./src/assets/templates/dataset-python-telecom-customer-churn.svg":function(e,s,t){"use strict";t.r(s),s.default=t.p+"static/media/dataset-python-telecom-customer-churn.b193ed93.svg"}}]);
-//# sourceMappingURL=28.7b006afe.chunk.js.map

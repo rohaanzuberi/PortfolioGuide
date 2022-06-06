@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[74],{"./src/assets/templates/recipe-python-evaluate-model-using-ROC-curve.svg":function(e,s,p){"use strict";p.r(s),s.default=p.p+"static/media/recipe-python-evaluate-model-using-ROC-curve.3cdb6394.svg"}}]);
-//# sourceMappingURL=74.4a350741.chunk.js.map

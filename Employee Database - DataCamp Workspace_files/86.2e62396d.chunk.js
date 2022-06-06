@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[86],{"./src/assets/templates/recipe-python-visualize-2d-heatmap-with-histogram.svg":function(e,s,a){"use strict";a.r(s),s.default=a.p+"static/media/recipe-python-visualize-2d-heatmap-with-histogram.9641594b.svg"}}]);
-//# sourceMappingURL=86.2e62396d.chunk.js.map

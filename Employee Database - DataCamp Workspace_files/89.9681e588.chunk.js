@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[89],{"./src/assets/templates/recipe-python-word-cloud.svg":function(e,p,s){"use strict";s.r(p),p.default=s.p+"static/media/recipe-python-word-cloud.7a9445b0.svg"}}]);
-//# sourceMappingURL=89.9681e588.chunk.js.map

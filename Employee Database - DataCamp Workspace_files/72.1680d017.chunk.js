@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[72],{"./src/assets/templates/recipe-python-email-regex.svg":function(e,p,s){"use strict";s.r(p),p.default=s.p+"static/media/recipe-python-email-regex.99909b7c.svg"}}]);
-//# sourceMappingURL=72.1680d017.chunk.js.map

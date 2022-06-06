@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[61],{"./src/assets/templates/python-olympics.svg":function(s,p,e){"use strict";e.r(p),p.default=e.p+"static/media/python-olympics.b6f9a98c.svg"}}]);
-//# sourceMappingURL=61.fa918f0f.chunk.js.map

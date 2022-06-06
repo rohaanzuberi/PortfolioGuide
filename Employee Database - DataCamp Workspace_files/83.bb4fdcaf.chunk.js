@@ -1,2 +1,0 @@
-(this["webpackJsonp@dcmfe/mfe-app-workspace"]=this["webpackJsonp@dcmfe/mfe-app-workspace"]||[]).push([[83],{"./src/assets/templates/recipe-python-time-series-shifts.svg":function(s,e,p){"use strict";p.r(e),e.default=p.p+"static/media/recipe-python-time-series-shifts.87a3ac56.svg"}}]);
-//# sourceMappingURL=83.bb4fdcaf.chunk.js.map
