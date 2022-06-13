@@ -9,6 +9,7 @@ If you do have any query regarding the projects, feel free to reach out to me on
 - SQL
 - Python
 - Tableau
+- Additional Content
 
 Click on the project's title to take you straight to the project!
 
@@ -32,3 +33,9 @@ Demonstrated Skills: Data cleaning, Text and string modeling, Aggregation functi
 | Project Title | Project Description | Skills |
 | --- | --- | --- |
 
+# Additional Content
+
+The following are extracts from other repositories within my profile. If you're interested, feel free to go through them to get a better understanding about me:
+- ABC
+- DEF
+- GHI
