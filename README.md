@@ -5,14 +5,14 @@ Welcome to my Portfolio Guide where I will guide you through all my data analyti
 
 If you do have any query regarding the projects, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rohaanzuberi/).
 
-## Categories
+## 📚 Categories
 - SQL
 - Python
 - Tableau
 
 Click on the project's title to take you straight to the project!
 
-# SQL
+# 🔡 SQL
 
 Demonstrated Skills: Data cleaning, Text and string modeling, Aggregation functions, Joins, Subqueries, Date functions, CASE WHEN statements, WHERE clauses
 
@@ -22,12 +22,12 @@ Demonstrated Skills: Data cleaning, Text and string modeling, Aggregation functi
 | Technology Adoption by Canadian Industries  | Data wrangling and analysis carried out on MySQL for data on technology adoption by Canadian industries | Data Modeling |
 | Content Cell  | Content Cell  |
 
-# Python
+# 🔎 Python
 
 | Project Title | Project Description | Skills |
 | --- | --- | --- |
 
-# Tableau
+# 📊 Tableau
 
 | Project Title | Project Description | Skills |
 | --- | --- | --- |
