@@ -26,4 +26,9 @@ Demonstrated Skills: Data cleaning, Text and string modeling, Aggregation functi
 
 | Project Title | Project Description | Skills |
 | --- | --- | --- |
-| [Topic Modelling on Canadian Energy Sector CSR/ESG reports] | 
+
+# Tableau
+
+| Project Title | Project Description | Skills |
+| --- | --- | --- |
+
