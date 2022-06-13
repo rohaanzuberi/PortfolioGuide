@@ -36,6 +36,6 @@ Demonstrated Skills: Data cleaning, Text and string modeling, Aggregation functi
 # Additional Content
 
 The following are extracts from other repositories within my profile. If you're interested, feel free to go through them to get a better understanding about me:
-- ABC
+- [My personalized Agile framework for learning data analytics skills](https://github.com/rohaanzuberi/My-personalized-Agile-framework-for-learning-data-analytics-skills/blob/1f23e2616def34261ae67933fdf76f31a84c682f/README_2.md)
 - DEF
 - GHI
