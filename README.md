@@ -23,7 +23,7 @@ Demonstrated Skills: Data cleaning, Text and string modeling, Aggregation functi
 | Technology Adoption by Canadian Industries  | Data wrangling and analysis carried out on MySQL for data on technology adoption by Canadian industries | Data Modeling |
 | Content Cell  | Content Cell  |
 
-# 🔎 Python
+# 🐍 Python
 
 | Project Title | Project Description | Skills |
 | --- | --- | --- |
