@@ -20,8 +20,7 @@ Demonstrated Skills: Data cleaning, Text and string modeling, Aggregation functi
 | Project Title | Project Description | Skills |
 | --- | --- | --- |
 | [Analysis of Employee Database](AnalyzeEmployeeDatabase.ipynb) | Analysis of employee data through exploration of information stored in different tables | JOINS, AGGREGATE FUNCTIONS, CLAUSES, DATE/TIME FUNCTIONS and SUBQUERY |
-| Technology Adoption by Canadian Industries  | Data wrangling and analysis carried out on MySQL for data on technology adoption by Canadian industries | Data Modeling |
-| Content Cell  | Content Cell  |
+| Technology Adoption by Canadian Industries (ongoing) | Data wrangling and analysis carried out on MySQL for data on technology adoption by Canadian industries | Data Modeling |
 
 # 🐍 Python
 
