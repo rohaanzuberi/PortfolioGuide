@@ -27,6 +27,7 @@ Demonstrated Skills: Data cleaning, Text and string modeling, Aggregation functi
 
 | Project Title | Project Description | Skills |
 | --- | --- | --- |
+| [Predicting Hotel Booking Cancellations](https://github.com/rohaanzuberi/PortfolioGuide/blob/395408a63cb1bc2280c2e495ddf85211338df306/Predicting_Hotel_Bookings_Cancellations/notebook-hotel_booking_prediction_ML.ipynb) | Creating a Decision Tree Classifier ML model with train/test data to predict hotel booking cancellations | Machine Learning, Predictive Analytics, Fitting ML model |
 
 # 📊 Tableau
 
