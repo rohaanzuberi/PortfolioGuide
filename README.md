@@ -33,7 +33,7 @@ Demonstrated Skills: Data cleaning, Text and string modeling, Aggregation functi
 | Project Title | Project Description | Skills |
 | --- | --- | --- |
 | [Innovation activities of small and medium enterprises within Canada between 2017 & 2020](https://public.tableau.com/views/InnovationActivitiesofEnterpriseswithinCanada/InnovationActivitiesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) | Analysis of innovation activities data taken from [Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310046201) to analyze how different industries and regions have adopted innovation practices between 2017 & 2020 | Data Cleaning, Data Exploration and Visualization |
-| [Maven Airlines Passenger Survey Analysis](https://public.tableau.com/app/profile/rohaan.zuberi7998/viz/MavenAirlinesPassengerSurveyAnalysis/MavenAirlines?publish=yes) | Analysis of airline passenger survey using Tableau | Data Analysis, Data Visualization, Filtering, Sorting & Grouping of Data |
+| [Maven Airlines Passenger Survey Analysis](https://public.tableau.com/app/profile/rohaan.zuberi7998/viz/MavenAirlinesPassengerSurveyAnalysis/MavenAirlines?publish=yes) | Analysis of airline passenger survey dataset taken from [Maven Analytics](https://www.mavenanalytics.io/data-playground) using Tableau | Data Analysis, Data Visualization, Filtering, Sorting & Grouping of Data |
 
 # Additional Content
 
