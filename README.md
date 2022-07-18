@@ -19,9 +19,10 @@ Demonstrated Skills: Data cleaning, Text and string modeling, Aggregation functi
 
 | Project Title | Project Description | Skills |
 | --- | --- | --- |
-| [Analysis of Employee Database](AnalyzeEmployeeDatabase.ipynb) | Analysis of employee data through exploration of information stored in different tables | JOINS, AGGREGATE FUNCTIONS, CLAUSES, DATE/TIME FUNCTIONS and SUBQUERY |
+| [E-Commerce Database Analysis - Ongoing Project](https://github.com/rohaanzuberi/Maven_Analytics/blob/f1ceea0e04b2a24357d19ca645aa3204ab4ad548/Advanced%20MySQL%20Data%20Analysis/README.md) | Analysis of E-Commerce Database to help the marketing team steer business | Data exploration, CASE statements, AGGREGATE functions, DATE functions |
+| [Analysis of Employee Database](AnalyzeEmployeeDatabase.ipynb) | Analysis of employee data through exploration of information stored in different tables | JOINS, AGGREGATE functions, CLAUSES, DATE/TIME FUNCTIONS and SUBQUERY |
 | [Inspection of Logged Medical Patient Records](https://github.com/rohaanzuberi/Serious_SQL/blob/a08c0ee645de0a8772b34d754092baab4728eb43/Dataset_Inspection.md) | Inspecting a real-world messy data using SQL | AGGREGATE FUNCTIONS, CTEs |
-| Technology Adoption by Canadian Industries (ongoing) | Data wrangling and analysis carried out on MySQL for data on technology adoption by Canadian industries | Data Modeling |
+
 
 # 🐍 Python
 
